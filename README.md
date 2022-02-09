@@ -1,2 +1,2 @@
-# Blanca_Bueno_Lucena
+# Practica1
 Práctica 1
